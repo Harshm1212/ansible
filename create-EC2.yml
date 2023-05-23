@@ -8,7 +8,7 @@
    vars: 
      keypair: harsh-keypair
      instance_type: t2.micro
-     image: ami-0cd8ad123effa531a
+     image: ami-0a242269c4b530c5e
      wait: yes
      group: webserver
      count: 1
